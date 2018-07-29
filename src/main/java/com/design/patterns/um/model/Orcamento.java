@@ -1,14 +1,26 @@
 package com.design.patterns.um.model;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class Orcamento {
 
-    private double totalOrcamento;
+    private List<Item> itens;
 
-    public Orcamento(double totalOrcamento) {
-        this.totalOrcamento = totalOrcamento;
+    public Orcamento() {
+        itens = new ArrayList<>();
     }
 
     public double getTotalOrcamento() {
-        return totalOrcamento;
+        return itens.stream().mapToDouble(Item::getValor).sum();
+    }
+
+    public List<Item> getItens() {
+        return Collections.unmodifiableList(itens);
+    }
+
+    public void adicionaItem(Item item) {
+        itens.add(item);
     }
 }
