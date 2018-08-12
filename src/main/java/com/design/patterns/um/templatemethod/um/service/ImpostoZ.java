@@ -1,15 +1,24 @@
 package com.design.patterns.um.templatemethod.um.service;
 
-import com.design.patterns.um.model.Item;
 import com.design.patterns.um.model.Orcamento;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class ImpostoZ extends TemplateDeImpostoCondicional {
+
     @Override
     protected boolean deveUsarMaximaTaxacao(Orcamento orcamento) {
         return isExisteItemDuplicado(orcamento);
+    }
+
+    @Override
+    protected double maximaTaxacao(Orcamento orcamento) {
+        return orcamento.getTotalOrcamento() * 0.13;
+    }
+
+    @Override
+    protected double minimaTaxacao(Orcamento orcamento) {
+        return orcamento.getTotalOrcamento() * 0.01;
     }
 
     private boolean isExisteItemDuplicado(Orcamento orcamento) {
@@ -23,15 +32,5 @@ public class ImpostoZ extends TemplateDeImpostoCondicional {
         });
 
         return (duplicates.size() > 0);
-    }
-
-    @Override
-    protected double maximaTaxacao(Orcamento orcamento) {
-        return orcamento.getTotalOrcamento() * 0.13;
-    }
-
-    @Override
-    protected double minimaTaxacao(Orcamento orcamento) {
-        return orcamento.getTotalOrcamento() * 0.01;
     }
 }
