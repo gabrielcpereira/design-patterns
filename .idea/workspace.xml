@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff8ad753-b05b-4aa6-9543-0278ff50889a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/TesteDecoratorDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/model/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/Filtro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroDataAberturaMesCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMaiorQueQuinhentosMil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMenorQueCem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/TesteDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Icms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Imposto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Iss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/TaxaAlfandega.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/TemplateMethodMainDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/model/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/model/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/service/Relatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/service/RelatorioComplexo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/service/RelatorioSimples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/dois/service/TemplateRelatorio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/um/service/ImpostoZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/um/templatemethod/um/service/ImpostoZ.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -50,36 +22,38 @@
     <session id="-1327664400">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.43" value="2" />
           <entry key="project.open.time.45" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="37" />
+          <entry key="java" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="3123" />
+          <entry key="java" value="4212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3123" />
+          <entry key="JAVA" value="4212" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -93,72 +67,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Imposto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMaiorQueQuinhentosMil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="20" column="47" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/Filtro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Icms.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/TesteDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMenorQueCem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#265#266#0" expanded="true" />
                 <element signature="e#288#289#0" expanded="true" />
               </folding>
@@ -167,41 +80,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/TaxaAlfandega.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Orcamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-              <folding>
-                <element signature="e#266#267#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/StateMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroDataAberturaMesCorrente.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/EstadoOrcamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Iss.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/EmAprovacao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-              <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Aprovado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Reprovado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Finalizado.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -209,7 +145,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/TesteDecoratorDois.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-91">
+            <state relative-caret-position="153">
               <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
@@ -518,14 +454,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/model/TipoItemEnums.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/TestaDescontoMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/service/CalculadorDeDescontosService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/service/DescontoPorVendaCasadaService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/model/Formato.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/RequisicaoService.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/model/Conta.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/ConversorService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/Resposta.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/NaoConverteService.java" />
@@ -569,6 +497,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMenorQueCem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/Filtro.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/TesteDecoratorDois.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Teste.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Reprovado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Finalizado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Orcamento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/EstadoOrcamento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Aprovado.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/EmAprovacao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/StateMain.java" />
       </list>
     </option>
   </component>
@@ -586,7 +522,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.design.patterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com.design.patterns" type="eaaa3913:PackageViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="com.design.patterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com.design.patterns" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="com.design.patterns_main" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="com.design.patterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="com.design.patterns" type="eaaa3913:PackageViewModuleGroupNode" />
+              <item name="com.design.patterns_main" type="616d4139:PackageViewModuleNode" />
+              <item name="com.design.patterns.um.model" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -624,6 +581,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -664,7 +622,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="chainofresponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="state" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.design.patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -673,37 +631,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="chainofresponsibility" type="462c0819:PsiDirectoryNode" />
-              <item name="dois" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.design.patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.design.patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="dois" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.design.patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="dois" type="462c0819:PsiDirectoryNode" />
+              <item name="state" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -713,41 +641,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="um" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.design.patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="um" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="com.design.patterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.design.patterns" type="eaaa3913:PackageViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="com.design.patterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.design.patterns" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="com.design.patterns_main" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="com.design.patterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="com.design.patterns" type="eaaa3913:PackageViewModuleGroupNode" />
-              <item name="com.design.patterns_main" type="616d4139:PackageViewModuleNode" />
-              <item name="com.design.patterns.um.model" type="1f31426a:PackageElementNode" />
+              <item name="templatemethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -756,7 +650,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534117193192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534471294632" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/design/patterns/um/dois" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -770,11 +664,11 @@
       <recent name="com.design.patterns.um.chainofresponsibility.um" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.design.patterns.um.state.service" />
       <recent name="com.design.patterns.um.decorator.dois.model" />
       <recent name="com.design.patterns.um.templatemethod.dois.model" />
       <recent name="com.design.patterns.um.method.model" />
       <recent name="com.design.patterns.um.chainofresponsibility.dois.service" />
-      <recent name="com.design.patterns.um.chainofresponsibility.dois.model" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -789,20 +683,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesteDecoratorDois">
+  <component name="RunManager" selected="Application.StateMain">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CadeiaConversorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.design.patterns.um.chainofresponsibility.dois.CadeiaConversorMain" />
+    <configuration name="StateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.design.patterns.um.state.StateMain" />
       <module name="com.design.patterns_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design.patterns.um.chainofresponsibility.dois.*" />
+          <option name="PATTERN" value="com.design.patterns.um.state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -896,19 +790,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CadeiaConversorMain" />
       <item itemvalue="Application.TemplateMethodMain" />
       <item itemvalue="Application.TemplateMethodMainDois" />
       <item itemvalue="Application.TesteDecorator" />
       <item itemvalue="Application.TesteDecoratorDois" />
+      <item itemvalue="Application.StateMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StateMain" />
         <item itemvalue="Application.TesteDecoratorDois" />
         <item itemvalue="Application.TesteDecorator" />
         <item itemvalue="Application.TemplateMethodMainDois" />
         <item itemvalue="Application.TemplateMethodMain" />
-        <item itemvalue="Application.CadeiaConversorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -925,11 +819,19 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -938,17 +840,17 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28387097" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969743" weight="0.3983871" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903227" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.39967638" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32903227" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.21885157" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32903227" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1000,56 +902,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/um/service/DescontoPorMaisDeQuinhentosReaisService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/um/service/DescontoPorVendaCasadaService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/model/Formato.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/RequisicaoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/Resposta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/NaoConverteService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/CadeiaConversorMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/chainofresponsibility/dois/service/ConversorService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1250,14 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="30" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1286,34 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/TaxaAlfandega.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1324,13 +1140,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Iss.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMaiorQueQuinhentosMil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="221">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/Filtro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1344,7 +1168,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/TesteDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
+        <state relative-caret-position="289">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1352,61 +1176,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/Filtro.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/TaxaAlfandega.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/TesteDecoratorDois.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="153">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroDataAberturaMesCorrente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="153">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMaiorQueQuinhentosMil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/um/service/Iss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Teste.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/service/FiltroSaldoMenorQueCem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
             <element signature="e#288#289#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Orcamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/EstadoOrcamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/EmAprovacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Aprovado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Reprovado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/service/Finalizado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/decorator/dois/TesteDecoratorDois.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/patterns/um/state/StateMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
         </state>
       </provider>
     </entry>
