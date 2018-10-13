@@ -1,10 +1,10 @@
 package com.design.patterns.um;
 
 import com.design.patterns.um.model.Orcamento;
-import com.design.patterns.um.strategy.um.service.IccService;
-import com.design.patterns.um.strategy.um.service.IcmsService;
-import com.design.patterns.um.strategy.um.service.ImpostoService;
-import com.design.patterns.um.strategy.um.service.IssService;
+import com.design.patterns.um.pattern.strategy.um.service.IccService;
+import com.design.patterns.um.pattern.strategy.um.service.IcmsService;
+import com.design.patterns.um.pattern.strategy.um.service.ImpostoService;
+import com.design.patterns.um.pattern.strategy.um.service.IssService;
 
 public class Application {
     public static void main(String[] args){
